@@ -1,0 +1,14 @@
+{
+ "type": "backend",
+
+ "backendIP": "localhost",
+ "backendPort": "8005",
+
+ "backendDiscoveryPort": "8006",
+ 
+ "primaryIP": "localhost",
+ "primaryPort": "8002",
+
+ "discoveryIP": "localhost",
+ "discoveryPort": "8000"
+}

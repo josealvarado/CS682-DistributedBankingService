@@ -1,0 +1,12 @@
+{
+ "type": "frontend",
+
+ "frontendIP": "localhost",
+ "frontendPort": "8008",
+ 
+ "backendIP": "localhost",
+ "backendPort": "8001",
+
+ "discoveryIP": "localhost",
+ "discoveryPort": "8000"
+}
